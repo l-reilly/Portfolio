@@ -122,3 +122,7 @@ html {
     margin-top: 2rem;;
   }
 }
+section {
+  margin-top: 8rem;
+  height: 100vh;
+}
