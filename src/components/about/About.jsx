@@ -20,6 +20,8 @@ const about = () => {
               <h5>Experience</h5>
               </div>
               <small>Ironhack 6 month bootcamp</small>
+              <br></br>
+              <small>1 year of self study</small>
             </article>
           </div>
           <p>I have experience with HTML, Javascript, CSS, and React. I am constantly practicing and learning and plan on expanding my knowledge of programming languages in the coming months.</p>
